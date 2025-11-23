@@ -23,7 +23,8 @@ $ pip install thorndyke
 
 ```
 $ thorndyke [username]
-```
+```tst
+
 
 
 **Clone from Github**:
